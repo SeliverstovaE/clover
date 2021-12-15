@@ -1,0 +1,20 @@
+# Contest for the best educational video on the assembly and configuration of Clover 4
+
+Requirements: 
+
+- the video contains the entire process of assembling and configuring the Clover 4.2 drone kit: from opening the box with components to flying the copter in position mode using ArUco markers;
+
+- the video is uploaded to YouTube and is in the public domain;
+
+- the video contains voice-over in English;
+
+- the video lasts from 6 to 60 minutes.
+
+## Результаты
+
+|Place|Участник|Ссылка на видео|
+|-|-|-|
+|1|🇷🇺 Philipp Batalin|www.youtube.com/watch?v=f0rpdulOSEk|
+|2|🇮🇹 Sara Pettinari|www.youtube.com/watch?v=PxxfyVH6RRA|
+|3|🇲🇾 Kai Feng Chew|www.youtube.com/watch?v=skgSwFle6Ms|
+|3|🇰🇿 Nikita Lobanov|www.youtube.com/watch?v=93b1epEM3SQ|
