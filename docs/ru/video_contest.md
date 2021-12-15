@@ -14,8 +14,8 @@
 
 |Место|Участник|Ссылка на видео|
 |-|-|-|
-|1|🇷🇺 Филипп Баталин|https://www.youtube.com/watch?v=f0rpdulOSEk|
-|2|🇮🇹 Sara Pettinari|https://www.youtube.com/watch?v=PxxfyVH6RRA|
+|1|🇷🇺 Филипп Баталин|www.youtube.com/watch?v=f0rpdulOSEk|
+|2|🇮🇹 Sara Pettinari|www.youtube.com/watch?v=PxxfyVH6RRA|
 |3|🇲🇾 Kai Feng Chew|www.youtube.com/watch?v=skgSwFle6Ms|
 |3|🇰🇿 Никита Лобанов|www.youtube.com/watch?v=93b1epEM3SQ|
 
